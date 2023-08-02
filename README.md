@@ -6,7 +6,7 @@ To use this script, you'll need a personal access token from GitHub. Make sure y
 
 This repo contains a bash script to update all git repos public/private repeatative code in one go. It also creates a Pull request for all repos.
 
-#Note
+# Note
 Replace "YOUR_GITHUB_TOKEN" with your actual GitHub personal access token.
 
 Remember that this script interacts with your GitHub repositories via API requests, so it's essential to use it responsibly and securely. Always be cautious when automating actions that affect remote repositories.
